@@ -1,5 +1,6 @@
 .project
 /gradle
+.classpath
 # Java gitignore
 # Compiled class file
 *.class
