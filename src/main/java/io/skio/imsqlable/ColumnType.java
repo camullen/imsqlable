@@ -14,5 +14,6 @@ public enum ColumnType {
   STRING,
   TEXT,
   TIME,
-  TIMESTAMP
+  TIMESTAMP,
+  INFERRED
 }
